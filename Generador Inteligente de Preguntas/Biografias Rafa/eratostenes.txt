@@ -1,0 +1,11 @@
+Eratóstenes nació en Cyrene (Libia) en el año 276 a.C. Fue astrónomo, historiador, geógrafo, filósofo, poeta, crítico teatral y matemático. Estudió en Alejandría y Atenas. Alrededor del año 255 a. C fue el tercer director de la Biblioteca de Alejandría. Trabajó con problemas de matemáticas, como la duplicación del cubo y números primos. Escribió muchos libros de los cuales sólo se tienen noticias por referencias bibliográficas de otros autores.
+
+Una de sus principales contribuciones a la ciencia y a la astronomía fue su trabajo sobre la medición de la tierra. Eratóstenes en sus estudios de los papiros de la biblioteca de Alejandría, encontró un informe de observaciones en Siena, unos 800 Km. al sureste de Alejandría, en el que se decía que los rayos solares al caer sobre una vara el mediodía del solsticio de verano (el actual 21 de junio) no producía sombra.
+
+Eratóstenes entonces realizó las mismas observaciones en Alejandría el mismo día a la misma hora, descubriendo que la luz del Sol incidía verticalmente en un pozo de agua el mismo día a la misma hora. Asumió de manera correcta que si el Sol se encontraba a gran distancia, sus rayos al alcanzar la tierra debían llegar en forma paralela, si esta era plana como se creía en aquellas épocas, y no se deberían encontrar diferencias entre las sombras proyectadas por los objetos a la misma hora del mismo día, independientemente de donde se encontraran.
+
+Sin embargo, al demostrarse que si lo hacían (la sombra dejada por la torre de Sienna formaba 7 grados con la vertical), dedujo que la tierra no era plana y, utilizando la distancia conocida entre las dos ciudades y el ángulo medido de las sombras, calculó la circunferencia de la tierra en aproximadamente 250.000 estadios (unos 40.000 kilómetros, bastante exacto para la época y sus recursos).
+
+También calculó la distancia al Sol en 804.000.000 estadios y la distancia a la Luna en 780.000 estadios. Midió casi con precisión la inclinación de la eclíptica en 23º 51' 15". Otro trabajo astronómico fue una compilación en un catálogo de cerca de 675 estrellas.
+
+Eratóstenes al final de su vida fue afectado por la ceguera y murió de hambre por su propia voluntad en 194 a.C. en Alejandría.

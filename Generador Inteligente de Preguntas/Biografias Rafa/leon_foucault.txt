@@ -1,0 +1,11 @@
+Léon Foucault fue un prestigioso físico francés que nació el 18 de septiembre de 1819 y murió el 11 de febrero de 1868. Se le conoce por haber demostrado en el año 1851 la rotación terrestre, gracias al conocido como "péndulo de Foucault".
+
+De esta forma, comenzó este experimento en torno al año 1850 al observar que un péndulo siempre oscilaba en el mismo plano mientras el aparato rotaba. Foucault utilizó dicho péndulo para demostrar el movimiento rotatorio de la Tierra, enunciando una ecuación que relacionaba el periodo de rotación del plano y la latitud de la Tierra.
+
+Así, Foucault realizó una exhibición pública en la que suspendió de un cable de acero de 67 metros de longitud una esfera de hierro con un peso de 28 kilogramos desde la misma cúpula del Panteón de París. Su comportamiento corroboró sus cálculos en relación a la rotación de la Tierra. El péndulo tardaba 16 segundos en ir y volver.
+
+Durante el movimiento, el estilete colocado en la parte inferior de la esfera realizaba marcas distintas en la arena situada en el suelo del Panteón, cada una de ellas a una distancia de dos milímetros de la anterior, debido al movimiento rotatorio de la Tierra. Gracias a ello le fue concedida la medalla Copley de la Royal Society of London, nombrado asimismo físico asistente del Observatorio Imperial de París.
+
+Sin embargo, esta no fue su única contribución a la ciencia. Realizó importantes aportaciones sobre la velocidad de la luz. De esta manera, en el año 1850 estableció que dicha velocidad en el agua es bastante menor a la que tiene en el aire. Esto supuso un apoyo a la teoría ondulatoria de la luz, frente a las teorías que defendían la naturaleza corpuscular de ésta.
+
+Asimismo, Foucault logró medir con precisión la velocidad de la luz en el año 1862 gracias a un espejo rotatorio. Por último, descubrió las conocidas como "corrientes de Foucault" cuando un disco de cobre se mueve al moverse en un campo magnético de gran intensidad.
