@@ -1,0 +1,9 @@
+#!/usr/bin/env gnuplot
+
+reset
+
+set terminal png
+set output "../Gaussiano.png"
+
+Norm(x,m,s) = 1./(sqrt(2*pi)*s) * exp( -(x-m)**2 / (2*s*s) )
+plot [-5:5] Norm(x,0,1)
