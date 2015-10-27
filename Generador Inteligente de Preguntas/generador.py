@@ -55,6 +55,7 @@ print('')
 
 response = alchemyapi.relations('text', demo_text)
 
+mlista = []
 if response['status'] == 'OK':
     print('## Object ##')
     print(json.dumps(response, indent=4))
@@ -67,6 +68,7 @@ if response['status'] == 'OK':
 
         if 'action' in relation:
             print('Action: ', relation['action']['text'].encode('utf-8'))
+            mlista.append(relation['action']['text'].encode('utf-8'))
 
         if 'object' in relation:
             print('Object: ', relation['object']['text'].encode('utf-8'))
@@ -75,4 +77,10 @@ if response['status'] == 'OK':
 else:
     print('Error in relation extaction call: ', response['statusInfo'])
 
-
+f = open("acciones", 'w')
+print "***", mlista
+which = ''
+for elem in mlista:
+    which += str(elem) + "\n"
+f.write(which)
+f.close()
