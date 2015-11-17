@@ -18,6 +18,9 @@ t = t.split()
 # (Creación dimple de NGramas)
 grams = [t[i:i+tam_NGram] for i in xrange(len(t)-tam_NGram+1)]
 
+print '*******************************'
+print '**** TOTAL DE NGRAMAS %s *****' % len(grams)
+print '*******************************\n'
 
 # Ciclo para hacer la consulta de google
 for i in xrange(len(grams)):
