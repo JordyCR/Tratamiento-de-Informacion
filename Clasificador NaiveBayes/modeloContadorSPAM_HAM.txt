@@ -1,0 +1,3 @@
+Total de msj = 5574
+Total de spam = 747
+Total de ham = 4827

@@ -1,0 +1,27 @@
+-Unidades formologicas
+      -Freq
+      -Freq PoS
+      -T,M
+      -Prueba hipotesis
+      -Prueba t-test
+      -x^2
+-Clasificador Naive Bayes
+-Clasificador Gaussiano
+-Clasificador Basado en centroides
+-Alfabetos
+      -Arabe
+      -Griego
+      -...
+-Zipf
+
+Datos
+-Hojas
+-Whatsapp
+
+Proyecto temporal
+-Poster (27 y 28 de octubre)
+
+18,19,20 de noviembre aprendizaje profundo
+deteccion automatica y plagio
+reconocimiento de imagenes en documentos
+Evaluacion semantica
