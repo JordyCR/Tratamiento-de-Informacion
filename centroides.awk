@@ -20,7 +20,7 @@ FILENAME==modelo {
 		}
 		# print c, distancia;
 	}	
-	# print $0 " --- " clase_ganadora, distancia_global;
+	print $0 " --- " clase_ganadora, distancia_global;
 	if ($2 ==  clase_ganadora) Exactitud++;
 	else Errores++;
 
