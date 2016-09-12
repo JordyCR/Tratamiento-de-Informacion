@@ -172,13 +172,19 @@ def limpiar_body(soup):
 	
 	# Lo introducimos en nuestro conjunto de datos
 	cbody = soup.body
-	cbody = str(cbody)	
-	cbody = reg.sub('', cbody).strip()
-	cbody = cbody.lower().translate(string.maketrans(" "," "), string.punctuation)
-	cbody = ' '.join(cbody.split()) # Eliminamos múltiples espacios
-	print "Body devuelto", cbody
+	#cbody = str(cbody)	
+	#cbody = reg.sub('', cbody).strip()
+	#cbody = cbody.lower().translate(string.maketrans(" "," "), string.punctuation)
+	#cbody = 
+	#print "Body devuelto", cbody.text
+	text = cbody.text
+	text = ' '.join(text.split(" ")) # Eliminamos múltiples espacios
+	text = text.replace("\t", " ")
+	text = text.replace("\n\n", "\n")
+	text = text.replace(" ", "")
+	text = '\n'.join(text.split("\n")) # Eliminamos múltiples \n
 
-	return cbody
+	return text
 
 
 
